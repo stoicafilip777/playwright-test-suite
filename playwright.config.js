@@ -70,7 +70,7 @@ const config = {
 
     /* Test against mobile viewports. */
 
-     {
+     { 
       name: 'Mobile Chrome',
       use: {
         ...devices['Pixel 5'],
